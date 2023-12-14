@@ -1,6 +1,6 @@
 # HamDard
 <p align="center">
-	<img width="240" src="https://github.com/mayur-ud/ieee-naari-arogya/blob/master/logo.png" />
+	<img width="240" src="./src/images/logo.png" />
 	</p>
 
 <p align="center">
@@ -27,10 +27,9 @@
 - [ ]  Web3.Storage
 - [ ]  Truffle
 - [ ]  Replit
+- [ ]  Polygon
 - [ ]  NodeJS
-- [ ]  Goerli TestNet
-- [ ]  Infura.io
-- [ ]  Solidity
+
 
 -------------
 
