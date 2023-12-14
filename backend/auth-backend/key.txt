@@ -1,1 +1,1 @@
-mongodb+srv://ankit-pn:qwertyuiop@file-data.hmhtm.mongodb.net/authDB?retryWrites=true&w=majority
+mongodb+srv://phoenixankita19:NZ6jnif8vw56F3O7@cluster0.nfwcw9s.mongodb.net/?retryWrites=true&w=majority
